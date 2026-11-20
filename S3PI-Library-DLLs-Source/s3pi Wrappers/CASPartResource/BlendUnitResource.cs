@@ -108,10 +108,10 @@ namespace CASPartResource
 
             Eyes = 128,
             Unknown9 = 256,
-            UnknownA = 512,
-            UnknownB = 1024,
+            Body = 512,
+            Legs = 1024,
 
-            UnknownC = 2048,
+            Neck = 2048,
             UnknownD = 4096,
             UnknownE = 8192,
             UnknownF = 16384,
